@@ -1,0 +1,94 @@
+{
+    "tripName": "Family Vacation",
+    "travelers": [
+        {
+            "name": "Gus Keller",
+            "email": "guskeller@gmail.com",
+            "phone": "8185555555"
+        },
+        {
+            "name": "Kelly Nelson",
+            "email": "kelly@nelson.com",
+            "phone": "1234567890"
+        }
+    ],
+    "destinations": [
+        {
+            "location": "Cancun",
+            "arrivalDate": "April 27, 2026",
+            "departureDate": "May 4, 2026",
+            "transportation": {
+                "mode": "Flight",
+                "cost": 1500
+            },
+            "activities": [
+                {
+                    "title": "Lounging",
+                    "time": "10:00AM" 
+                },
+                {
+                    "title": "Swimming",
+                    "time": "2:00PM"
+                }
+            ]
+        },
+        {
+            "location": "Hallstatt",
+            "arrivalDate": "December 1, 2025",
+            "departureDate": "December 5, 2025",
+            "transportation": {
+                "mode": "Boat",
+                "cost": 150
+            },
+            "activities": [
+                {
+                    "title": "Salt Mine",
+                    "time": "12:00PM"
+                },
+                {
+                    "title": "Hiking",
+                    "time": "9:00AM"
+                }
+            ]
+        },
+        {
+            "location": "Vegas",
+            "arrivalDate": "July 1, 2025",
+            "departureDate": "July 5, 2025",
+            "transportation": {
+                "mode": "Road Trip",
+                "cost": 800
+            },
+            "activities": [
+                {
+                    "title": "Gambling",
+                    "time": "12:00PM"
+                },
+                {
+                    "title": "Clubbing",
+                    "time": "12:00AM"
+                }
+            ]
+        },
+
+        {
+            "location": "Dominican Republic",
+            "arrivalDate": "June 23, 2025",
+            "departureDate": "June 27, 2025",
+              "transportation": {
+                "mode": "Flight",
+                "cost": 1100
+            },
+            "activities": [
+                {
+                    "title": "Zip lining",
+                    "time": "10:00AM"
+                },
+                {
+                    "title": "Horseback Riding",
+                    "time": "5:00PM"
+                }
+            ]
+        }
+    ]
+}
